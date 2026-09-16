@@ -129,7 +129,6 @@ Random Forest result deserves an honest flag rather than a victory lap:
 
 ## 8. Files
 
-- `loan_approval_v2.py` — full pipeline (cleaning, training, evaluation)
+- `loan_approval_prediction.py` — full pipeline (cleaning, training, evaluation)
 - `model_evaluation.png` — confusion matrix, ROC curve, feature importance,
   metric comparison
-- `summary.json` — machine-readable summary of results
