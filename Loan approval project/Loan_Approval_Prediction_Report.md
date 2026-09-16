@@ -1,5 +1,5 @@
-# Loan Approval Prediction — Machine Learning Project (v2)
-### Dataset: `loan_approval_dataset.csv` (user-provided)
+# Loan Approval Prediction — Machine Learning Project
+### Dataset: `loan_approval_dataset.csv`
 
 ## 1. Problem Statement
 
