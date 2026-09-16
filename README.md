@@ -43,5 +43,6 @@ Loan approval prediction/
 ├── Loan approval project
 │    ├── Pyton file
 │    ├── Dataset / CSV file
+│    ├── Prediction report
 │    └── Evaluation PNG file
 └── README.md
